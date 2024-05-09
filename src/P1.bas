@@ -40,5 +40,8 @@ GetCalc(B)
 
 Output(Y,X,"()")
 Output(B,A,"[]")
+
+ClrHome
+
 end
 end
