@@ -12,4 +12,4 @@ A simple multiplayer game on the TI-84 graphing calculator
 
 ## Usage
 
-Run the P1 program on one calculator and P2 on the other. Its a really basic game and not much you can do.
+Run the P1 program on one calculator and P2 on the other. Its a really basic game and not much you can do, but you can play tag.
