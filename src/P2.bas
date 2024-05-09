@@ -1,4 +1,4 @@
-prgmPlaBer1
+prgmPlayer2
 
 1->A
 1->B
