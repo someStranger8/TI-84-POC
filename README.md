@@ -1,2 +1,3 @@
-# TI-84-POC
-Super Smash Bros ported to the TI-84 graphing calculator with multiplayer over 2 separate calculators.
+# TI-84 POC
+
+A simple multiplayer game on the TI-84 graphing calculator
