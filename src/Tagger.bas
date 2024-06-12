@@ -4,6 +4,8 @@ prgmTagger
 1->Y
 1->G
 
+Wait 3
+
 While G
 
 getKey->K
