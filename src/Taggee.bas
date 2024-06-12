@@ -4,6 +4,8 @@ prgmTaggee
 1->B
 1->G
 
+Wait 3
+
 While G
 
 getKey->K
