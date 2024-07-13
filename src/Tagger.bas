@@ -1,7 +1,7 @@
 prgmTagger
 
-1->X
-1->Y
+16->X
+8->Y
 1->G
 
 Wait 3
